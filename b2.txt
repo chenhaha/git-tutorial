@@ -1,2 +1,3 @@
 this is from b2
 xjb add
+xjb add 2
